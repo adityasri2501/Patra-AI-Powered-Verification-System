@@ -1,0 +1,8 @@
+{
+  "daily": ["pratidin", "dainik"],
+  "evening": ["sandhya"],
+  "morning": ["prabhat"],
+  "news": ["samachar", "khabar"],
+  "weekly": ["saptahik"],
+  "report": ["vivaran"]
+}
